@@ -1,0 +1,190 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Aleksander
+ID:      210222490
+Email:   sien2490@mylaurier.ca
+Version: 2021-11-29
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Number of rows: 2
+Number of columns: 3
+Low value: 4
+High value: 6
+Type of values: float
+[[5.616506703283434, 5.89410992950587, 4.872881699842505], [5.675935876244341, 5.985873679022477, 4.362879859174652]]
+
+Number of rows: 3
+Number of columns: 5
+Low value: 3
+High value: 100
+Type of values: int
+[[61, 53, 89, 68, 98], [31, 35, 85, 50, 85], [14, 35, 45, 35, 27]]
+
+Number of rows: 1
+Number of columns: 2
+Low value: 3
+High value: 6
+Type of values: int
+[[6, 5]]
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+Number of rows: 4
+Number of columns: 6
+[['t', 'e', 'n', 'g', 'm', '{'], ['r', 'h', 'n', 'w', 'e', 'q'], ['g', 'm', 'n', 'm', 'r', 'm'], ['x', 'n', 's', 'y', 'a', 'd']]
+
+Number of rows: 2
+Number of columns: 3
+[['m', 'l', 'j'], ['y', 'n', 'v']]
+
+Number of rows: 3
+Number of columns: 6
+[['j', 'u', 'c', 'q', 's', 'w'], ['l', 'q', 't', 'u', 'f', 'd'], ['v', 'd', 'd', 'w', 'c', 'u']]
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+Strings: ["cat", "dog", "big"]
+Matrix of characters:
+
+      0    1    2
+ 0    c    a    t
+ 1    d    o    g
+ 2    b    i    g
+
+Strings: ["cat", "dog", "big"]
+Matrix of characters:
+
+      0    1    2
+ 0    c    a    t
+ 1    d    o    g
+ 2    b    i    g
+
+Strings: ["cat", "dog", "big"]
+Matrix of characters:
+
+      0    1    2
+ 0    c    a    t
+ 1    d    o    g
+ 2    b    i    g
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+
+Number of rows: 3
+Number of columns: 4
+Low value: -10
+High value: 10
+
+        0      1      2      3
+ 0      2     -5     -3     -3
+ 1     -3     -1    -10      4
+ 2     -1     -7      2     -9
+
+Smallest = -10
+Largest = 4
+Total = -34
+Average = -2.83
+
+Number of rows: 3
+Number of columns: 4
+Low value: -10
+High value: 10
+
+        0      1      2      3
+ 0      2     -5     -3     -3
+ 1     -3     -1    -10      4
+ 2     -1     -7      2     -9
+
+Smallest = -10
+Largest = 4
+Total = -34
+Average = -2.83
+
+Number of rows: 3
+Number of columns: 4
+Low value: -10
+High value: 10
+
+        0      1      2      3
+ 0      2     -5     -3     -3
+ 1     -3     -1    -10      4
+ 2     -1     -7      2     -9
+
+Smallest = -10
+Largest = 4
+Total = -34
+Average = -2.83
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+t13
+
+
+Matrix before scalar multiplication:
+       0      1      2
+0     -6      7     -6
+1     -6      3      1
+2     -4      3      6
+3     -5      8      1
+
+Enter number: 5
+
+Matrix after scalar multiplication:
+       0      1      2
+0    -30     35    -30
+1    -30     15      5
+2    -20     15     30
+3    -25     40      5
+
+
+Matrix before scalar multiplication:
+       0      1      2
+0     -6      7     -6
+1     -6      3      1
+2     -4      3      6
+3     -5      8      1
+
+Enter number: 5
+
+Matrix after scalar multiplication:
+       0      1      2
+0    -30     35    -30
+1    -30     15      5
+2    -20     15     30
+3    -25     40      5
+
+
+Matrix before scalar multiplication:
+       0      1      2
+0     -6      7     -6
+1     -6      3      1
+2     -4      3      6
+3     -5      8      1
+
+Enter number: 5
+
+Matrix after scalar multiplication:
+       0      1      2
+0    -30     35    -30
+1    -30     15      5
+2    -20     15     30
+3    -25     40      5
+
+
+
+-------------------------------------------------------
+-------------------------------------------------------

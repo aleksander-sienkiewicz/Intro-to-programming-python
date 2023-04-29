@@ -1,0 +1,117 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Aleksander
+ID:      210222490
+Email:   sien2490@mylaurier.ca
+Version: 2021-10-22
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Enter a date.
+Day: 1
+Month: 2
+Year (2 digits): 2
+1/2/2 is a magic date.
+
+Enter a date.
+Day: 2
+Month: 3
+Year (2 digits): 1
+2/3/1 is not a magic date.
+
+Enter a date.
+Day: 21
+Month: 3
+Year (2 digits): 63
+21/3/63 is a magic date.
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+Enter target: 5
+Enter v1: 3
+Enter v2: -4
+Closest value to 5.0 is 3.0
+
+Enter target: 1
+Enter v1: 2
+Enter v2: 3
+Closest value to 1.0 is 2.0
+
+Enter target: 3
+Enter v1: 2.8
+Enter v2: 2.9
+Closest value to 3.0 is 2.9
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t08
+
+Enter a number from 1 to 10: 4
+The roman numeral equivalent of 4 is IV
+
+Enter a number from 1 to 10: 12
+Error
+
+Enter a number from 1 to 10: 9
+The roman numeral equivalent of 9 is IX
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t12
+
+Status: F
+Years: 42
+Salary: 99000
+New Salary: $100,980.00
+
+Status: P
+Years: 21
+Salary: 15000
+New Salary: $15,300.00
+
+Status: J
+Years: 12
+Salary: 40000
+New Salary: $40,800.00
+
+-------------------------------------------------------
+-------------------------------------------------------
+t14
+
+Number of Seconds: 0
+0 is the same as:
+   0 days
+   0 hours
+   0 minutes
+
+Number of Seconds: 3600
+3600 is the same as:
+   0 days
+   1 hours
+  60 minutes
+
+Number of Seconds: 86400
+86400 is the same as:
+   1 days
+  24 hours
+1440 minutes
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+
+-------------------------------------------------------

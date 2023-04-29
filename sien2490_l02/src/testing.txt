@@ -1,0 +1,108 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Aleksander
+ID:      210222490
+Email:   sien2490@mylaurier.ca
+Version: 2021-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+Temperature (C): 25
+Temperature (F): 77.0 
+
+Temperature (C): 0
+Temperature (F): 32.0 
+
+Temperature (C): -40
+Temperature (F): -40.0 
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+
+Number of large dogs groomed: 8
+Number of small dogs groomed: 4
+Total earned for the day: $800
+
+Number of large dogs groomed: 1
+Number of small dogs groomed: 0
+Total earned for the day: $75
+
+Number of large dogs groomed: 0
+Number of small dogs groomed: 1
+Total earned for the day: $50
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+
+Mortgage principal ($): 200000
+Number of years: 20
+Yearly interest rate (%): 5
+The monthly payments are: $1319.9114784333176
+
+Mortgage principal ($): 10000000
+Number of years: 60
+Yearly interest rate (%): 1.2
+The monthly payments are: $19490.41915328057
+
+Mortgage principal ($): 4065
+Number of years: 1
+Yearly interest rate (%): 10000
+The monthly payments are: $33875.000000077525
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+
+Number of flyers: 10000
+Number of volunteers: 22
+Flyers per volunteer: 454
+Flyers left over: 12
+
+Number of flyers: 10
+Number of volunteers: 5
+Flyers per volunteer: 2
+Flyers left over: 0
+
+Number of flyers: 7038342
+Number of volunteers: 432
+Flyers per volunteer: 16292
+Flyers left over: 198
+-------------------------------------------------------
+-------------------------------------------------------
+t08
+
+Enter your height (m): 1.8
+Enter your weight(kg): 76
+Enter your upper limit BMI (23 if you are from South East Asia and Southern China, 25 for everyone else): 23
+Body Mass Index (kg/m^2) = 23.456790123456788
+BMI Prime = 1.019860440150295
+
+Enter your height (m): 1.84
+Enter your weight(kg): 80
+Enter your upper limit BMI (23 if you are from South East Asia and Southern China, 25 for everyone else): 25
+Body Mass Index (kg/m^2) = 23.629489603024574
+BMI Prime = 0.9451795841209829
+
+Enter your height (m): 2
+Enter your weight(kg): 90
+Enter your upper limit BMI (23 if you are from South East Asia and Southern China, 25 for everyone else): 23
+Body Mass Index (kg/m^2) = 22.5
+BMI Prime = 0.9782608695652174
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+
+-------------------------------------------------------

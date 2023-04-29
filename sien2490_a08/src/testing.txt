@@ -1,0 +1,90 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Aleksander
+ID:      210222490
+Email:   sien2490@mylaurier.ca
+Version: 2021-11-29
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+Type a sentence w/o spaces, spacing words with a capital letter:
+StopAndSmellTheRoses.
+Stop and smell the roses.
+
+Type a sentence w/o spaces, spacing words with a capital letter:
+HiImAleks
+Hi im aleks
+
+Type a sentence w/o spaces, spacing words with a capital letter:
+IAmDoingTheAssignment
+I am doing the assignment
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+Enter a word to pluralize: candy
+Plural version is: candies
+
+Enter a word to pluralize: cow
+Plural version is: cows
+
+Enter a word to pluralize: laptop
+Plural version is: laptops
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+
+Enter your first word to compare: running
+Enter your second word to compare: jumping
+The common letter(s) is/are ing
+
+Enter your first word to compare: hold
+Enter your second word to compare: bold
+The common letter(s) is/are old
+
+Enter your first word to compare: hey
+Enter your second word to compare: lady
+The common letter(s) is/are y
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+Enter ISBN: 978-3-12148410--0
+978-3-12148410--0 is not valid
+
+Enter ISBN: 978-3-16-148410-0
+978-3-16-148410-0 is valid
+
+Enter ISBN: 2381-231-32-32
+2381-231-32-32 is not valid
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+The list of words is ['camel', 'leopard', 'dog', 'giraffe', 'elephant']
+
+It is a word chain
+--
+The list of words is ['camel', 'leopard', 'dog', 'giraffe', 'elephant']
+
+It is a word chain
+--
+The list of words is ['camel', 'leopard', 'dog', 'giraffe', 'elephant']
+
+It is a word chain
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------

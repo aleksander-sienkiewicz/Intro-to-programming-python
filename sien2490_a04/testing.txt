@@ -1,0 +1,88 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Aleksander
+ID:      210222490
+Email:   sien2490@mylaurier.ca
+Version: 2021-10-24
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+Enter a number from 1 to 7 to convert: 1
+It is Monday
+
+Enter a number from 1 to 7 to convert: -213
+Error
+
+Enter a number from 1 to 7 to convert: 7
+It is Sunday
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+Enter air quality index number: 12
+The air quality is Good
+
+Enter air quality index number: 100
+The air quality is Moderate
+
+Enter air quality index number: 1209
+The air quality is Hazardous
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+
+Enter the first number: 1
+Enter the second number: 2
+Enter the third number: 3
+The product of the two greatest numbers entered is 6
+
+Enter the first number: -2
+Enter the second number: -3
+Enter the third number: -19
+The product of the two greatest numbers entered is 6
+
+Enter the first number: 3
+Enter the second number: 2
+Enter the third number: 4
+The product of the two greatest numbers entered is 12
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+Enter a color (red, green, or blue): blue
+Enter a color to add (red, green, or blue): red
+Adding red to blue results in fuchsia
+
+Enter a color (red, green, or blue): green
+Enter a color to add (red, green, or blue): green
+Adding green to green results in green
+
+Enter a color (red, green, or blue): blue
+Enter a color to add (red, green, or blue): green
+Adding green to blue results in aqua
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+Enter a number: 1
+Nada
+
+Enter a number: 123
+Yee
+
+Enter a number: 21
+Yee Ha
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------

@@ -1,0 +1,180 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Aleksander
+ID:      210222490
+Email:   sien2490@mylaurier.ca
+Version: 2021-11-05
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Enter highest number: 100
+Guess: 50
+Too low, try again
+Guess: 70
+Too high, try again
+Guess: 60
+Too high, try again
+Guess: 55
+Too low, try again
+Guess: 57
+Congratulations - good guess!
+You made it in 5 guess(es)
+
+Enter highest number: 10
+Guess: 5
+Too low, try again
+Guess: 7
+Too high, try again
+Guess: 6
+Congratulations - good guess!
+You made it in 3 guess(es)
+
+Enter highest number: 1000
+Guess: 500
+Too high, try again
+Guess: 250
+Too low, try again
+Guess: 340
+Too high, try again
+Guess: 300
+Too high, try again
+Guess: 280
+Too high, try again
+Guess: 255
+Too high, try again
+Guess: 251
+Congratulations - good guess!
+You made it in 7 guess(es)
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+Enter target number: 60
+The closest power of 2 greater than equal to 60 is 64.0
+
+Enter target number: 10000
+The closest power of 2 greater than equal to 10000 is 16384.0
+
+Enter target number: 14
+The closest power of 2 greater than equal to 14 is 16.0
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t084
+
+Enter target number: 10000
+Sum of squares is > or = 10000 is 10416
+
+Enter target number: 153
+Sum of squares is > or = 153 is 204
+
+Enter target number: 2837
+Sum of squares is > or = 2837 is 2870
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+
+How much was lunch? $432.324
+How much was supper? $23.43
+Your total for the day was $488.19
+
+Were you way another day (Y/N)? n
+
+Total:
+Breakfast: $   32.43   
+Lunch:     $   432.32  
+Supper:    $   23.43   
+
+For day 1
+
+How much was breakfast? $ 1
+How much was lunch? $ 2
+How much was supper? $ 3
+Your total for the day was $6.00
+
+Were you way another day (Y/N)? Y
+
+For day 2
+
+How much was breakfast? $ 4
+How much was lunch? $ 5
+How much was supper? $ 6
+Your total for the day was $15.00
+
+Were you away for anoder day (Y/N? N
+
+Total:
+Breakfast: $    5.00   
+Lunch:     $    7.00   
+Supper:    $    9.00   
+
+For day 1
+
+How much was breakfast? $ 12
+How much was lunch? $ 321.4
+How much was supper? $ 23.21
+Your total for the day was $356.61
+
+Were you way another day (Y/N)? N
+
+Total:
+Breakfast: $   12.00   
+Lunch:     $   321.40  
+Supper:    $   23.21   
+
+-------------------------------------------------------
+-------------------------------------------------------
+t10
+
+Employee ID: 1
+Hourly wage rate: 45
+Hours worked: 50
+Net payment for employee 1: $2,385.28
+
+Employee ID: 0
+Total payment:    $2385.28
+Average payment:  $2385.28
+
+
+Employee ID: 1
+Hourly wage rate: 45
+Hours worked: 50
+Net payment for employee 1: $2,385.28
+
+Employee ID: 2
+Hourly wage rate: 45
+Hours worked: 30
+Net payment for employee 2: $1,301.06
+
+Employee ID: 0
+Total payment:    $3686.34
+Average payment:  $1843.17
+
+
+Employee ID: 123
+Hourly wage rate: 45
+Hours worked: 46
+Net payment for employee 123: $2,125.07
+
+Employee ID: 124
+Hourly wage rate: 30
+Hours worked: 46
+Net payment for employee 124: $1,416.71
+
+Employee ID: 0
+Total payment:    $3541.78
+Average payment:  $1770.89
+
+-------------------------------------------------------
+-------------------------------------------------------

@@ -1,0 +1,148 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Aleksander
+ID:      210222490
+Email:   sien2490@mylaurier.ca
+Version: 2021-11-21
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Factors of: 9
+The factors of 9 are [1, 3]
+
+Factors of: 97
+The factors of 97 are [1]
+
+Factors of: 48
+The factors of 48 are [1, 2, 3, 4, 6, 8, 12, 16, 24]
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+Enter a positive number: 3
+Enter a positive number: 5
+Enter a positive number: 43
+Enter a positive number: 3
+Enter a positive number: 2
+Enter a positive number: -75
+Enter a positive number: 0
+[3, 5, 43, 3, 2]
+
+Enter a positive number: 32
+Enter a positive number: 58
+Enter a positive number: 39
+Enter a positive number: 2934
+Enter a positive number: -32432
+Enter a positive number: 0
+[32, 58, 39, 2934]
+
+Enter a positive number: -2
+Enter a positive number: -3
+Enter a positive number: -4
+Enter a positive number: 2
+Enter a positive number: 4
+Enter a positive number: -92
+Enter a positive number: 0
+[2, 4]
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+
+Enter a positive number: 2
+Enter a positive number: 4
+Enter a positive number: 6
+Enter a positive number: 7
+Enter a positive number: 9
+Enter a positive number: 5
+Enter a positive number: 3
+Enter a positive number: 4
+Enter a positive number: 5
+Enter a positive number: 5
+Enter a positive number: 0
+Enter target: 5
+5 can be found in indexes: [5, 8, 9]
+
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 0
+Enter target: 2
+2 can be found in indexes: [1]
+
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 1
+Enter a positive number: 0
+Enter target: 1
+1 can be found in indexes: [0, 2]
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+Type in list (0 to stop)
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 0
+Type values to remove (0 to stop)
+Enter a positive number: 2
+Enter a positive number: 0
+New list is [1]
+
+Type in list (0 to stop)
+Enter a positive number: 11
+Enter a positive number: 2
+Enter a positive number: 3
+Enter a positive number: 4
+Enter a positive number: 5
+Enter a positive number: 63
+Enter a positive number: 2
+Enter a positive number: 0
+Type values to remove (0 to stop)
+Enter a positive number: 0
+New list is [11, 2, 3, 4, 5, 63, 2]
+
+Type in list (0 to stop)
+Enter a positive number: 2
+Enter a positive number: 4
+Enter a positive number: 0
+Type values to remove (0 to stop)
+Enter a positive number: 2
+Enter a positive number: 0
+New list is [4]
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 3
+Enter a positive number: 4
+Enter a positive number: 0
+
+It is in order
+
+Enter a positive number: 2
+Enter a positive number: 1
+Enter a positive number: 0
+
+It is not in order, 1 is out of place.
+
+
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 3
+Enter a positive number: 0
+
+It is in order
+-------------------------------------------------------
+
+-------------------------------------------------------

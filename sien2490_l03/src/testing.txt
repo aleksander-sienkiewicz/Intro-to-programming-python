@@ -1,0 +1,106 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Aleksander
+ID:      210222490
+Email:   sien2490@mylaurier.ca
+Version: 2021-09-25
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01 - only requires one test, one command with one possible output.
+
+'I'm a Little Astronaut' by Jean Warren
+
+I'm a little astronaut
+    Flying to the moon.
+        My rocket is ready,
+        We blast off soon.
+I climb aboard
+    And close the hatch.
+        5-4-3-2-1, off we blast! 
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+Enter number: 0
+Enter percent: 10
+A 10.0 discount on 0.0 is 0.0
+---
+Enter number: 500
+Enter percent: 10.5
+A 10.5 discount on 500.0 is 52.5
+---
+Enter number: 3
+Enter percent: 2
+A 2.0 discount on 3.0 is 0.1
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+
+Enter cost of breakfast: $1
+Enter cost of lunch: $2
+Enter cost of supper: $3
+
+Meal        Cost
+Breakfast   $  1.00
+Lunch       $  2.00
+Supper      $  3.00
+Total       $  6.00
+---
+Enter cost of breakfast: $6.75
+Enter cost of lunch: $19.34
+Enter cost of supper: $112.81
+
+Meal        Cost
+Breakfast   $  6.75
+Lunch       $ 19.34
+Supper      $112.81
+Total       $138.90
+---
+Enter cost of breakfast: $10
+Enter cost of lunch: $1
+Enter cost of supper: $2
+
+Meal        Cost
+Breakfast   $ 10.00
+Lunch       $  1.00
+Supper      $  2.00
+Total       $ 13.00
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t11
+
+left----------------
+-------middle-------
+---------------right
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+t15
+
+654321
+654321.000000
+654.320000
+Hello World
+
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+
+-------------------------------------------------------

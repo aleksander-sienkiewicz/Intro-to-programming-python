@@ -1,0 +1,100 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Aleksander
+ID:      210222490
+Email:   sien2490@mylaurier.ca
+Version: 2021-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+The book title is, "The Fifth Season".
+What's mine is mine, and what's yours is mine.
+"Experience is one thing you can't get for nothing." Oscar Wilde
+Three things cannot be long hidden:
+the sun,
+the moon,
+and the truth.
+--------------------------------
+
+-------------------------------------------------------
+t02
+Enter your age: 12
+Enter your favourite band: Nickleback
+I am 12 years old and my favourite band is Nickleback
+
+Enter your age: -100
+Enter your favourite band: black eyed peas
+I am -100 years old and my favourite band is black eyed peas
+
+Enter your age: 18
+Enter your favourite band: cobra starship
+I am 18 years old and my favourite band is cobra starship
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+Enter length in miles: 12
+12.0 miles is equal to 19.31208 kilometres
+
+Enter length in miles: -10
+-10.0 miles is equal to -16.0934 kilometres
+
+Enter length in miles: 10000
+10000.0 miles is equal to 16093.4 kilometres
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+Cost of 1 burrito: $4.49
+Number of burritos: 3
+Total cost of 3 burritos: $ 13.47
+
+Cost of 1 burrito: $0
+Number of burritos: 10
+Total cost of 10 burritos: $ 0.0
+
+Cost of 1 burrito: $10
+Number of burritos: 0
+Total cost of 0 burritos: $ 0.0
+
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+Principal: $ 5000.00
+Interest (decimal) : 0.05
+Number of years: 10
+Number of times interest compounded per year: 12
+Balance: $8235.05
+
+Principal: $ 100000
+Interest (decimal) : 1.60
+Number of years: 10
+Number of times interest compounded per year: 10
+Balance: $279125119937.47
+
+Principal: $ 50
+Interest (decimal) : 0.02
+Number of years: 2
+Number of times interest compounded per year: 4
+Balance: $52.04
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------

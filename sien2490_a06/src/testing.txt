@@ -1,0 +1,129 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Aleksander
+ID:      210222490
+Email:   sien2490@mylaurier.ca
+Version: 2021-11-14
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Enter the winning team: blue
+Enter the winning team: blue
+Enter the winning team: grey
+Enter the winning team: 
+Blue wins 2 times
+Grey wins 1 times
+
+Enter the winning team: 
+Blue wins 0 times
+Grey wins 0 times
+
+Enter the winning team: grey
+Enter the winning team: grey
+Enter the winning team: 
+Blue wins 0 times
+Grey wins 2 times
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+Enter a number: 7
+7 is prime
+
+Enter a number: 10
+10 is not prime
+
+Enter a number: 100
+100 is not prime
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+
+Principal: 1000
+Rate: 10
+Monthly Payment: 100
+principal: $1000.0
+Interest Rate: 10.0%
+Montly Payment: $100.00
+---------------------------------
+Month  Interest  Payment  Balance
+---------------------------------
+    1      8.33   100.00   908.33
+    2      7.57   100.00   815.90
+    3      6.80   100.00   722.70
+    4      6.02   100.00   628.72
+    5      5.24   100.00   533.96
+    6      4.45   100.00   438.41
+    7      3.65   100.00   342.07
+    8      2.85   100.00   244.92
+    9      2.04   100.00   146.96
+   10      1.22   100.00    48.18
+   11      0.40    48.58     0.00
+
+Principal: 34
+Rate: 432
+Monthly Payment: 43
+principal: $34.0
+Interest Rate: 432.0%
+Montly Payment: $43.00
+---------------------------------
+Month  Interest  Payment  Balance
+---------------------------------
+    1     12.24    43.00     3.24
+    2      1.17     4.41     0.00
+
+Principal: 10023
+Rate: 23
+Monthly Payment: 2134
+principal: $10023.0
+Interest Rate: 23.0%
+Montly Payment: $2134.00
+---------------------------------
+Month  Interest  Payment  Balance
+---------------------------------
+    1    192.11  2134.00 8,081.11
+    2    154.89  2134.00 6,102.00
+    3    116.95  2134.00 4,084.95
+    4     78.29  2134.00 2,029.25
+    5     38.89  2068.14     0.00
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+Enter a number: 19
+There are 2 digits in 19
+
+Enter a number: 1500
+There are 4 digits in 1500
+
+Enter a number: -999
+There are 3 digits in -999
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+Number: 6
+The sum of factors is 6
+
+Number: 7
+The sum of factors is 1
+
+Number: 24
+The sum of factors is 36
+
+-------------------------------------------------------
+
+-------------------------------------------------------

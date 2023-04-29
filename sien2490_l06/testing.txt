@@ -1,0 +1,160 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Aleksander
+ID:      210222490
+Email:   sien2490@mylaurier.ca
+Version: 2021-10-28
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Enter a number: 2
+The sum of all even numbers from 2 to 2 is: 2
+
+Enter a number: 3
+The sum of all even numbers from 2 to 3 is: 2
+
+Enter a number: 4
+The sum of all even numbers from 2 to 4 is: 6
+
+Enter a number: 99
+The sum of all even numbers from 2 to 99 is: 2450
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+Enter height in characters: 0
+Enter width in characters: 0
+Enter the draw characters: #
+
+Enter height in characters: 1
+Enter width in characters: 1
+Enter the draw characters: #
+#
+
+Enter height in characters: 1
+Enter width in characters: 1
+Enter the draw characters: *
+*
+
+Enter height in characters: 3
+Enter width in characters: 4
+Enter the draw characters: #
+####
+####
+####
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t09
+
+2
+2 bottles of beer on the wall, 2 bottles of beer.
+Take one down pass it around, 1 bottles of beer on the wall.
+--
+1 bottles of beer on the wall, 1 bottles of beer.
+Take one down pass it around, no more bottles of beer on the wall.
+
+3
+3 bottles of beer on the wall, 3 bottles of beer.
+Take one down pass it around, 2 bottles of beer on the wall.
+--
+2 bottles of beer on the wall, 2 bottles of beer.
+Take one down pass it around, 1 bottles of beer on the wall.
+--
+1 bottles of beer on the wall, 1 bottles of beer.
+Take one down pass it around, no more bottles of beer on the wall.
+
+4
+4 bottles of beer on the wall, 4 bottles of beer.
+Take one down pass it around, 3 bottles of beer on the wall.
+--
+3 bottles of beer on the wall, 3 bottles of beer.
+Take one down pass it around, 2 bottles of beer on the wall.
+--
+2 bottles of beer on the wall, 2 bottles of beer.
+Take one down pass it around, 1 bottles of beer on the wall.
+--
+1 bottles of beer on the wall, 1 bottles of beer.
+Take one down pass it around, no more bottles of beer on the wall.
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t10
+
+Enter calories burned per minute: 1.0
+Enter beginning number of minutes: 1
+Enter ending number of minutes: 1
+Enter the increment in minutes: 1
+Calories burned after 1 minutes: 1.0
+
+Enter calories burned per minute: 2.0
+Enter beginning number of minutes: 1
+Enter ending number of minutes: 10
+Enter the increment in minutes: 2
+Calories burned after 1 minutes: 2.0
+Calories burned after 3 minutes: 6.0
+Calories burned after 5 minutes: 10.0
+Calories burned after 7 minutes: 14.0
+Calories burned after 9 minutes: 18.0
+
+Enter calories burned per minute: 3.9
+Enter beginning number of minutes: 5
+Enter ending number of minutes: 30
+Enter the increment in minutes: 5
+Calories burned after 5 minutes: 19.5
+Calories burned after 10 minutes: 39.0
+Calories burned after 15 minutes: 58.5
+Calories burned after 20 minutes: 78.0
+Calories burned after 25 minutes: 97.5
+Calories burned after 30 minutes: 117.0
+
+-------------------------------------------------------
+-------------------------------------------------------
+t15
+
+Enter number of values: 1
+First Value: 1
+
+Minimum: 1.00
+Maximum: 1.00
+Total: 1.00
+Average: 1.00
+
+Enter number of values: 2
+First Value: 1
+Next Value: -1
+
+Minimum: -1.00
+Maximum: 1.00
+Total: 0.00
+Average: 0.00
+
+Enter number of values: 4
+First Value: 3.5
+Next Value: 2.25
+Next Value: 6.1
+Next Value: 9.3
+
+Minimum: 2.25
+Maximum: 9.30
+Total: 21.15
+Average: 5.29
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+
+-------------------------------------------------------

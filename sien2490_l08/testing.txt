@@ -1,0 +1,185 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Aleksander
+ID:      210222490
+Email:   sien2490@mylaurier.ca
+Version: 2021-11-12
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Enter the number of the day of the week: 3
+The day of the week is Tuesday
+
+Enter the number of the day of the week: 4
+The day of the week is Wednesday
+
+Enter the number of the day of the week: 7
+The day of the week is Saturday
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+Number of values: 10
+Low value: -100
+High value: 100
+[96, 43, -76, 45, 87, 78, 35, 55, 88, 66]
+
+Number of values: 6
+Low value: 1
+High value: 8
+[6, 8, 4, 4, 1, 7]
+
+Number of values: 10
+Low value: -100
+High value: 200
+[-89, 116, 176, -68, 103, -6, -27, 184, 125, 47]
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+
+Enter a value: 5
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 4
+Do you want to add nother value to the list?
+y = yes, n = no: y8
+
+Values: [5, 4]
+Smallest value: 5
+Largest value: 5
+Total: 9
+Average: 4.5
+===
+Enter a value: 8
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 4
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 9
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 10
+Do you want to add nother value to the list?
+y = yes, n = no: n
+
+Values: [8, 4, 9, 10]
+Smallest value: 8
+Largest value: 10
+Total: 31
+Average: 7.75
+===
+Enter a value: 3
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 4
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 7
+Do you want to add nother value to the list?
+y = yes, n = no: n
+
+Values: [3, 4, 7]
+Smallest value: 3
+Largest value: 7
+Total: 14
+Average: 4.666666666666667
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t08
+
+Enter a value: 4
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 6
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 7
+Do you want to add nother value to the list?
+y = yes, n = no: 29
+
+Value: 29
+Values: [4, 6, 7]
+
+Index of 29: -1
+===
+Enter a value: 5
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 7
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 3
+Do you want to add nother value to the list?
+y = yes, n = no: n
+
+Value: 3
+Values: [5, 7, 3]
+
+Index of 3: 2
+===
+Enter a value: 4
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 7
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 8
+Do you want to add nother value to the list?
+y = yes, n = no: n
+
+Value: 19
+Values: [4, 7, 8]
+
+Index of 19: -1
+-------------------------------------------------------
+-------------------------------------------------------
+t10
+
+Enter a value: 2
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 5
+Do you want to add nother value to the list?
+y = yes, n = no: n
+
+Value: 5
+Values: [2, 5]
+
+Index of 5: 1
+
+Enter a value: 3
+Do you want to add nother value to the list?
+y = yes, n = no: y
+
+Enter a value: 9
+Do you want to add nother value to the list?
+y = yes, n = no: n
+
+Values: 2
+Indexes of minimums: [0]
+-------------------------------------------------------
+-------------------------------------------------------
